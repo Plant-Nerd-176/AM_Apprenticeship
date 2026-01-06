@@ -1,0 +1,94 @@
+Rank,Club,Matches,Wins,Draws,Losses,Goals_For,Goals_Against,Goal_Difference,Points,Points_Per_Match,Attendance,Top_Scorer,unique_ID,Top_Scorer_Name,Top_Scorer_Goals,Expected_Goals_Difference_Per_90_Mins,Season
+1,Chelsea,18,13,5,0,44,13,31,44,2.44,1884.0,Fran Kirby - 8,Chelsea_2017_2018,Fran_Kirby,8,,2017
+2,Manchester_City,18,12,2,4,51,17,34,38,2.11,3818.0,Nikita Parris - 11,Manchester_City_2017_2018,Nikita_Parris,11,,2017
+3,Arsenal,18,11,4,3,38,18,20,37,2.06,586.0,Beth Mead - 8,Arsenal_2017_2018,Beth_Mead,8,,2017
+4,Reading,18,9,5,4,40,18,22,32,1.78,647.0,Remi Allen - 9,Reading_2017_2018,Remi_Allen,9,,2017
+5,Birmingham_City,18,9,3,6,30,18,12,30,1.67,741.0,Ellen White - 15,Birmingham_City_2017_2018,Ellen_White,15,,2017
+6,Liverpool,18,9,1,8,30,27,3,28,1.56,634.0,Bethany England - 10,Liverpool_2017_2018,Bethany_England,10,,2017
+7,Sunderland,18,5,1,12,15,40,-25,16,0.89,363.0,"Keira Ramshaw, Lucy Staniforth... - 3",Sunderland_2017_2018,"Keira_Ramshaw, Lucy_Staniforth...",3,,2017
+8,Bristol_City,18,5,1,12,13,47,-34,16,0.89,609.0,Lauren Hemp - 7,Bristol_City_2017_2018,Lauren_Hemp,7,,2017
+9,Everton,18,4,2,12,19,30,-11,14,0.78,402.0,Danielle Turner - 5,Everton_2017_2018,Danielle_Turner,5,,2017
+10,Yeovil_Town,18,0,2,16,2,54,-52,2,0.11,483.0,"Hannah Miles, Ann-Marie Heatherson - 1",Yeovil_Town_2017_2018,"Hannah_Miles, Ann-Marie_Heatherson",1,,2017
+1,Arsenal,20,18,0,2,70,13,57,54,2.7,2010.0,Vivianne Miedema - 22,Arsenal_2018_2019,Vivianne_Miedema,22,1.7,2018
+2,Manchester_City,20,14,5,1,53,17,36,47,2.35,1506.0,Nikita Parris - 19,Manchester_City_2018_2019,Nikita_Parris,19,1.36,2018
+3,Chelsea,20,12,6,2,46,14,32,42,2.1,2040.0,Bethany England - 12,Chelsea_2018_2019,Bethany_England,12,1.51,2018
+4,Birmingham_City,20,13,1,6,29,17,12,40,2.0,866.0,Ellen White - 6,Birmingham_City_2018_2019,Ellen_White,6,0.17,2018
+5,Reading,20,8,3,9,33,30,3,27,1.35,810.0,Fara Williams - 11,Reading_2018_2019,Fara_Williams,11,0.12,2018
+6,Bristol_City,20,7,4,9,17,34,-17,25,1.25,485.0,Lucy Graham - 7,Bristol_City_2018_2019,Lucy_Graham,7,-1.13,2018
+7,West_Ham,20,7,2,11,25,37,-12,23,1.15,879.0,Jane Ross - 7,West_Ham_2018_2019,Jane_Ross,7,-0.49,2018
+8,Liverpool,20,7,1,12,21,38,-17,22,1.1,530.0,Courtney Sweetman-Kirk - 10,Liverpool_2018_2019,Courtney_Sweetman-Kirk,10,-0.23,2018
+9,Brighton,20,4,4,12,16,38,-22,16,0.8,975.0,Ellie Brazil - 4,Brighton_2018_2019,Ellie_Brazil,4,-0.36,2018
+10,Everton,20,3,3,14,15,38,-23,12,0.6,200.0,Inessa Kaagman - 4,Everton_2018_2019,Inessa_Kaagman,4,-0.51,2018
+11,Yeovil_Town,20,2,1,17,11,60,-49,-3,-0.15,719.0,Ellie Mason - 3,Yeovil_Town_2018_2019,Ellie_Mason,3,-2.16,2018
+1,Chelsea,15,12,3,0,47,11,36,39,2.6,5991.0,Bethany England - 14,Chelsea_2019_2020,Bethany_England,14,2.0,2019
+2,Manchester_City,16,13,1,2,39,9,30,40,2.5,5378.0,Pauline Bremer - 10,Manchester_City_2019_2020,Pauline_Bremer,10,1.16,2019
+3,Arsenal,15,12,0,3,40,13,27,36,2.4,2209.0,Vivianne Miedema - 16,Arsenal_2019_2020,Vivianne_Miedema,16,1.43,2019
+4,Manchester_Utd,14,7,2,5,24,12,12,23,1.64,2101.0,Lauren James - 6,Manchester_Utd_2019_2020,Lauren_James,6,0.82,2019
+5,Reading,14,6,3,5,21,24,-3,21,1.5,894.0,Fara Williams - 5,Reading_2019_2020,Fara_Williams,5,0.32,2019
+6,Everton,14,6,1,7,21,21,0,19,1.36,378.0,Chloe Kelly - 9,Everton_2019_2020,Chloe_Kelly,9,-0.38,2019
+7,Tottenham,15,6,2,7,15,24,-9,20,1.33,6204.0,Rianna Dean - 4,Tottenham_2019_2020,Rianna_Dean,4,-0.63,2019
+8,West_Ham,14,5,1,8,19,34,-15,16,1.14,5002.0,Adriana Leon - 5,West_Ham_2019_2020,Adriana_Leon,5,-0.96,2019
+9,Brighton,16,3,4,9,11,30,-19,13,0.81,1311.0,Aileen Whelan - 5,Brighton_2019_2020,Aileen_Whelan,5,-0.52,2019
+10,Bristol_City,14,2,3,9,9,38,-29,9,0.64,1215.0,Ebony Salmon - 5,Bristol_City_2019_2020,Ebony_Salmon,5,-1.88,2019
+11,Birmingham_City,13,2,1,10,5,23,-18,7,0.54,875.0,Abbi Grant - 2,Birmingham_City_2019_2020,Abbi_Grant,2,-1.24,2019
+12,Liverpool,14,1,3,10,8,20,-12,6,0.43,4606.0,Rachel Furness - 4,Liverpool_2019_2020,Rachel_Furness,4,-0.51,2019
+1,Chelsea,22,18,3,1,69,10,59,57,2.59,24.0,Sam Kerr - 21,Chelsea_2020_2021,Sam_Kerr,21,1.86,2020
+2,Manchester_City,22,17,4,1,65,13,52,55,2.5,,"Chloe Kelly, Ellen White - 10",Manchester_City_2020_2021,"Chloe_Kelly, Ellen_White",10,1.96,2020
+3,Arsenal,22,15,3,4,63,15,48,48,2.18,,Vivianne Miedema - 18,Arsenal_2020_2021,Vivianne_Miedema,18,1.53,2020
+4,Manchester_Utd,22,15,2,5,44,20,24,47,2.14,,Ella Toone - 9,Manchester_Utd_2020_2021,Ella_Toone,9,0.91,2020
+5,Everton,22,9,5,8,39,30,9,32,1.45,,"Izzy Christiansen, Simone Magill - 6",Everton_2020_2021,"Izzy_Christiansen, Simone_Magill",6,0.1,2020
+6,Brighton,22,8,3,11,21,41,-20,27,1.23,75.0,Inessa Kaagman - 8,Brighton_2020_2021,Inessa_Kaagman,8,-0.82,2020
+7,Reading,22,5,9,8,25,41,-16,24,1.09,,Rachel Rowe - 5,Reading_2020_2021,Rachel_Rowe,5,-0.33,2020
+8,Tottenham,22,5,5,12,18,41,-23,20,0.91,,"Ashleigh Neville, Angela Addison... - 2",Tottenham_2020_2021,"Ashleigh_Neville, Angela_Addison...",2,-0.76,2020
+9,West_Ham,22,3,6,13,21,39,-18,15,0.68,,"Martha Thomas, Emily van Egmond - 4",West_Ham_2020_2021,"Martha_Thomas, Emily_van_Egmond",4,-0.84,2020
+10,Aston_Villa,22,3,6,13,15,47,-32,15,0.68,,Ramona Petzelberger - 3,Aston_Villa_2020_2021,Ramona_Petzelberger,3,-0.99,2020
+11,Birmingham_City,22,3,6,13,15,44,-29,14,0.64,,Claudia Walker - 5,Birmingham_City_2020_2021,Claudia_Walker,5,-1.16,2020
+12,Bristol_City,22,2,6,14,18,72,-54,12,0.55,,Ebony Salmon - 6,Bristol_City_2020_2021,Ebony_Salmon,6,-1.56,2020
+1,Chelsea,22,18,2,2,62,11,51,56,2.55,3187.0,Sam Kerr - 20,Chelsea_2021_2022,Sam_Kerr,20,1.53,2021
+2,Arsenal,22,17,4,1,65,10,55,55,2.5,3486.0,Vivianne Miedema - 14,Arsenal_2021_2022,Vivianne_Miedema,14,1.19,2021
+3,Manchester_City,22,15,2,5,60,22,38,47,2.14,1917.0,Lauren Hemp - 10,Manchester_City_2021_2022,Lauren_Hemp,10,1.29,2021
+4,Manchester_Utd,22,12,6,4,45,22,23,42,1.91,3567.0,Alessia Russo - 9,Manchester_Utd_2021_2022,Alessia_Russo,9,0.44,2021
+5,Tottenham,22,9,5,8,24,23,1,32,1.45,1753.0,Rachel Williams - 4,Tottenham_2021_2022,Rachel_Williams,4,0.29,2021
+6,West_Ham,22,7,6,9,23,33,-10,27,1.23,1465.0,Dagný Brynjarsdóttir - 4,West_Ham_2021_2022,Dagný_Brynjarsdóttir,4,-0.34,2021
+7,Brighton,22,8,2,12,24,38,-14,26,1.18,1766.0,"Inessa Kaagman, Aileen Whelan - 4",Brighton_2021_2022,"Inessa_Kaagman, Aileen_Whelan",4,-0.4,2021
+8,Reading,22,7,4,11,21,40,-19,25,1.14,828.0,Natasha Dowie - 6,Reading_2021_2022,Natasha_Dowie,6,-0.81,2021
+9,Aston_Villa,22,6,3,13,13,40,-27,21,0.95,1639.0,"Ramona Petzelberger, Remi Allen - 3",Aston_Villa_2021_2022,"Ramona_Petzelberger, Remi_Allen",3,-0.76,2021
+10,Everton,22,5,5,12,18,41,-23,20,0.91,1021.0,Anna Anvegard - 4,Everton_2021_2022,Anna_Anvegard,4,-0.29,2021
+11,Leicester_City,22,4,1,17,14,53,-39,13,0.59,1743.0,"Samantha Tierney, Jemma Purfield... - 2",Leicester_City_2021_2022,"Samantha_Tierney, Jemma_Purfield...",2,-0.94,2021
+12,Birmingham_City,22,3,2,17,15,51,-36,11,0.5,737.0,Louise Quinn - 5,Birmingham_City_2021_2022,Louise_Quinn,5,-1.18,2021
+1,Chelsea,22,19,1,2,66,15,51,58,2.64,6177.0,Sam Kerr - 12,Chelsea_2022_2023,Sam_Kerr,12,1.18,2022
+2,Manchester_Utd,22,18,2,2,56,12,44,56,2.55,10613.0,"Alessia Russo, Leah Galton - 10",Manchester_Utd_2022_2023,"Alessia_Russo, Leah_Galton",10,1.02,2022
+3,Arsenal,22,15,2,5,49,16,33,47,2.14,19245.0,Frida Maanum - 9,Arsenal_2022_2023,Frida_Maanum,9,1.14,2022
+4,Manchester_City,22,15,2,5,50,25,25,47,2.14,8017.0,Khadija Shaw - 20,Manchester_City_2022_2023,Khadija_Shaw,20,1.4,2022
+5,Aston_Villa,22,11,4,7,47,37,10,37,1.68,4199.0,Rachel Daly - 22,Aston_Villa_2022_2023,Rachel_Daly,22,0.15,2022
+6,Everton,22,9,3,10,29,36,-7,30,1.36,4647.0,Katja Snoeijs - 7,Everton_2022_2023,Katja_Snoeijs,7,-0.5,2022
+7,Liverpool,22,6,5,11,24,39,-15,23,1.05,6546.0,Katie Stengel - 9,Liverpool_2022_2023,Katie_Stengel,9,-0.37,2022
+8,West_Ham,22,6,3,13,23,44,-21,21,0.95,1583.0,"Viviane Asseyi, Dagný Brynjarsdóttir - 6",West_Ham_2022_2023,"Viviane_Asseyi, Dagný_Brynjarsdóttir",6,-0.92,2022
+9,Tottenham,22,5,3,14,31,47,-16,18,0.82,1422.0,Bethany England - 12,Tottenham_2022_2023,Bethany_England,12,-0.31,2022
+10,Leicester_City,22,5,1,16,15,48,-33,16,0.73,2974.0,"Hannah Cain, Samantha Tierney... - 2",Leicester_City_2022_2023,"Hannah_Cain, Samantha_Tierney...",2,-0.84,2022
+11,Brighton,22,4,4,14,26,63,-37,16,0.73,3427.0,Elisabeth Terland - 7,Brighton_2022_2023,Elisabeth_Terland,7,-0.78,2022
+12,Reading,22,3,2,17,23,57,-34,11,0.5,2462.0,"Sanne Troelsgaard Nielsen, Charlie Wellings... - 4",Reading_2022_2023,"Sanne_Troelsgaard_Nielsen, Charlie_Wellings...",4,-1.17,2022
+1,Chelsea,22,18,1,3,71,18,53,55,2.5,9291.0,Lauren James - 13,Chelsea_2023_2024,Lauren_James,13,1.72,2023
+2,Manchester_City,22,18,1,3,61,15,46,55,2.5,7400.0,Khadija Shaw - 21,Manchester_City_2023_2024,Khadija_Shaw,21,1.27,2023
+3,Arsenal,22,16,2,4,53,20,33,50,2.27,29999.0,Alessia Russo - 12,Arsenal_2023_2024,Alessia_Russo,12,1.6,2023
+4,Liverpool,22,12,5,5,36,28,8,41,1.86,4550.0,Sophie Román Haug - 7,Liverpool_2023_2024,Sophie_Román_Haug,7,-0.05,2023
+5,Manchester_Utd,22,10,5,7,42,32,10,35,1.59,10957.0,Nikita Parris - 8,Manchester_Utd_2023_2024,Nikita_Parris,8,0.31,2023
+6,Tottenham,22,8,7,7,31,36,-5,31,1.41,4317.0,Martha Thomas - 7,Tottenham_2023_2024,Martha_Thomas,7,-0.16,2023
+7,Aston_Villa,22,7,3,12,27,43,-16,24,1.09,5100.0,Rachel Daly - 8,Aston_Villa_2023_2024,Rachel_Daly,8,-0.63,2023
+8,Everton,22,6,5,11,24,37,-13,23,1.05,2071.0,"Aurora Galli, Martina Piemonte... - 3",Everton_2023_2024,"Aurora_Galli, Martina_Piemonte...",3,-0.71,2023
+9,Brighton,22,5,4,13,26,48,-22,19,0.86,3553.0,Elisabeth Terland - 13,Brighton_2023_2024,Elisabeth_Terland,13,-0.88,2023
+10,Leicester_City,22,4,6,12,26,45,-19,18,0.82,2666.0,Jutta Rantala - 6,Leicester_City_2023_2024,Jutta_Rantala,6,-0.78,2023
+11,West_Ham,22,3,6,13,20,45,-25,15,0.68,1892.0,"Riko Ueki, Viviane Asseyi - 6",West_Ham_2023_2024,"Riko_Ueki, Viviane_Asseyi",6,-0.34,2023
+12,Bristol_City,22,1,3,18,20,70,-50,6,0.27,6974.0,Amalie Thestrup - 9,Bristol_City_2023_2024,Amalie_Thestrup,9,-1.34,2023
+1,Chelsea,22,19,3,0,56,13,43,60,2.73,9373.0,Agnes Beever-Jones - 9,Chelsea_2024_2025,Agnes_Beever-Jones,9,1.32,2024
+2,Arsenal,22,15,3,4,62,26,36,48,2.18,28808.0,Alessia Russo - 12,Arsenal_2024_2025,Alessia_Russo,12,1.25,2024
+3,Manchester_Utd,22,13,5,4,41,16,25,44,2.0,7390.0,Elisabeth Terland - 10,Manchester_Utd_2024_2025,Elisabeth_Terland,10,0.68,2024
+4,Manchester_City,22,13,4,5,49,28,21,43,1.95,6726.0,Khadija Shaw - 12,Manchester_City_2024_2025,Khadija_Shaw,12,0.88,2024
+5,Brighton,22,8,4,10,35,41,-6,28,1.27,3647.0,"Fran Kirby, Nikita Parris - 7",Brighton_2024_2025,"Fran_Kirby, Nikita_Parris",7,-0.35,2024
+6,Aston_Villa,22,7,4,11,32,44,-12,25,1.14,7067.0,Rachel Daly - 8,Aston_Villa_2024_2025,Rachel_Daly,8,-0.29,2024
+7,Liverpool,22,7,4,11,22,37,-15,25,1.14,7023.0,Olivia Smith - 7,Liverpool_2024_2025,Olivia_Smith,7,-0.03,2024
+8,Everton,22,6,6,10,24,32,-8,24,1.09,1956.0,"Honoka Hayashi, Kelly Gago... - 4",Everton_2024_2025,"Honoka_Hayashi, Kelly_Gago...",4,-0.85,2024
+9,West_Ham,22,6,5,11,36,41,-5,23,1.05,1838.0,Shekiera Martinez - 10,West_Ham_2024_2025,Shekiera_Martinez,10,-0.38,2024
+10,Leicester_City,22,5,5,12,21,37,-16,20,0.91,2827.0,Janice Cayman - 4,Leicester_City_2024_2025,Janice_Cayman,4,-0.79,2024
+11,Tottenham,22,5,5,12,26,44,-18,20,0.91,5387.0,Bethany England - 8,Tottenham_2024_2025,Bethany_England,8,-0.24,2024
+12,Crystal_Palace,22,2,4,16,20,65,-45,10,0.45,1779.0,"Annabel Blanchard, Katie Stengel - 4",Crystal_Palace_2024_2025,"Annabel_Blanchard, Katie_Stengel",4,-1.19,2024

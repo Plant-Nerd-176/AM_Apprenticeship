@@ -1,0 +1,249 @@
+Rank,Nationality,Num_Players,Minutes_Played,FIFA Ranking,Season_Rank,group,Season
+1,England,150,106092.0,3,2017_2018_1,English,2017
+2,Wales,29,17902.0,35,2017_2018_2,European (excl. Eng),2017
+3,Scotland,11,11185.0,23,2017_2018_3,European (excl. Eng),2017
+4,Republic_of_Ireland,11,6344.0,29,2017_2018_4,European (excl. Eng),2017
+5,Netherlands,10,9635.0,7,2017_2018_5,European (excl. Eng),2017
+6,Germany,6,2838.0,2,2017_2018_6,European (excl. Eng),2017
+7,Sweden,5,3247.0,10,2017_2018_7,European (excl. Eng),2017
+8,Jamaica,4,3452.0,64,2017_2018_8,Non-European,2017
+9,Northern_Ireland,4,1899.0,55,2017_2018_9,European (excl. Eng),2017
+10,United_States,3,3039.0,1,2017_2018_10,Non-European,2017
+11,Belgium,3,2780.0,22,2017_2018_11,Non-European,2017
+12,Norway,3,2286.0,14,2017_2018_12,Non-European,2017
+13,Denmark,2,932.0,12,2017_2018_13,European (excl. Eng),2017
+14,New_Zealand,2,879.0,19,2017_2018_14,Non-European,2017
+15,Canada,1,1228.0,5,2017_2018_15,Non-European,2017
+16,Korea_Republic,1,1003.0,14,2017_2018_16,Non-European,2017
+17,Switzerland,1,807.0,17,2017_2018_17,European (excl. Eng),2017
+18,Ghana,1,747.0,46,2017_2018_18,Non-European,2017
+19,Austria,1,166.0,21,2017_2018_19,European (excl. Eng),2017
+20,Nigeria,1,72.0,37,2017_2018_20,Non-European,2017
+1,England,143,109957.0,4,2018_2019_1,English,2018
+2,Scotland,19,19122.0,20,2018_2019_2,European (excl. Eng),2018
+3,Wales,18,15798.0,29,2018_2019_3,European (excl. Eng),2018
+4,Republic_of_Ireland,15,14894.0,33,2018_2019_4,European (excl. Eng),2018
+5,Netherlands,10,11608.0,7,2018_2019_5,European (excl. Eng),2018
+6,Jamaica,8,6095.0,53,2018_2019_6,Non-European,2018
+7,Germany,6,3697.0,2,2018_2019_7,European (excl. Eng),2018
+8,Northern_Ireland,5,5728.0,61,2018_2019_8,European (excl. Eng),2018
+9,Sweden,5,4365.0,9,2018_2019_9,European (excl. Eng),2018
+10,New_Zealand,4,1830.0,19,2018_2019_10,Non-European,2018
+11,Denmark,4,1051.0,17,2018_2019_11,European (excl. Eng),2018
+12,United_States,3,3997.0,1,2018_2019_12,Non-European,2018
+13,Switzerland,3,3846.0,18,2018_2019_13,European (excl. Eng),2018
+14,Belgium,3,3768.0,21,2018_2019_14,Non-European,2018
+15,Nigeria,2,2238.0,39,2018_2019_15,Non-European,2018
+16,Korea_Republic,2,2000.0,14,2018_2019_16,Non-European,2018
+17,Finland,2,1253.0,28,2018_2019_17,European (excl. Eng),2018
+18,Norway,2,870.0,13,2018_2019_18,Non-European,2018
+19,Canada,2,638.0,8,2018_2019_19,Non-European,2018
+20,France,1,1170.0,3,2018_2019_20,European (excl. Eng),2018
+21,Ghana,1,948.0,50,2018_2019_21,Non-European,2018
+22,Morocco,1,795.0,79,2018_2019_22,Non-European,2018
+23,Iceland,1,208.0,22,2018_2019_23,European (excl. Eng),2018
+24,Samoa,1,157.0,113,2018_2019_24,Non-European,2018
+25,Austria,1,104.0,23,2018_2019_25,European (excl. Eng),2018
+26,Portugal,1,,32,2018_2019_26,European (excl. Eng),2018
+1,England,141,80612.0,6,2019_2020_1,English,2019
+2,Scotland,24,16314.0,22,2019_2020_2,European (excl. Eng),2019
+3,Republic_of_Ireland,17,8746.0,32,2019_2020_3,European (excl. Eng),2019
+4,Wales,15,12354.0,34,2019_2020_4,European (excl. Eng),2019
+5,Netherlands,12,8694.0,3,2019_2020_5,European (excl. Eng),2019
+6,Norway,9,5958.0,12,2019_2020_6,Non-European,2019
+7,Germany,7,5721.0,2,2019_2020_7,European (excl. Eng),2019
+8,France,5,3598.0,4,2019_2020_8,European (excl. Eng),2019
+9,Sweden,5,3176.0,5,2019_2020_9,European (excl. Eng),2019
+10,Jamaica,4,3976.0,51,2019_2020_10,Non-European,2019
+11,United_States,4,2330.0,1,2019_2020_11,Non-European,2019
+12,Korea_Republic,4,1710.0,20,2019_2020_12,Non-European,2019
+13,Northern_Ireland,3,3039.0,56,2019_2020_13,European (excl. Eng),2019
+14,Switzerland,3,2327.0,19,2019_2020_14,European (excl. Eng),2019
+15,Canada,3,1811.0,8,2019_2020_15,Non-European,2019
+16,Australia,3,874.0,7,2019_2020_16,Non-European,2019
+17,New_Zealand,2,2281.0,23,2019_2020_17,Non-European,2019
+18,Belgium,2,2045.0,17,2019_2020_18,Non-European,2019
+19,Austria,2,1956.0,21,2019_2020_19,European (excl. Eng),2019
+20,Nigeria,2,1375.0,39,2019_2020_20,Non-European,2019
+21,Finland,2,1071.0,28,2019_2020_21,European (excl. Eng),2019
+22,Denmark,2,593.0,16,2019_2020_22,European (excl. Eng),2019
+23,Ghana,1,616.0,60,2019_2020_23,Non-European,2019
+24,Morocco,1,574.0,81,2019_2020_24,Non-European,2019
+25,Dominican_Republic,1,148.0,102,2019_2020_25,Non-European,2019
+26,Portugal,1,64.0,31,2019_2020_26,European (excl. Eng),2019
+27,Iceland,1,49.0,18,2019_2020_27,European (excl. Eng),2019
+28,Poland,1,1.0,30,2019_2020_28,European (excl. Eng),2019
+1,England,153,119307.0,6,2020_2021_1,English,2020
+2,Scotland,20,20148.0,21,2020_2021_2,European (excl. Eng),2020
+3,Wales,16,15423.0,31,2020_2021_3,European (excl. Eng),2020
+4,Republic_of_Ireland,15,12791.0,31,2020_2021_4,European (excl. Eng),2020
+5,Netherlands,10,11855.0,4,2020_2021_5,European (excl. Eng),2020
+6,Australia,10,11575.0,7,2020_2021_6,Non-European,2020
+7,Norway,10,9696.0,11,2020_2021_7,Non-European,2020
+8,Germany,8,9714.0,2,2020_2021_8,European (excl. Eng),2020
+9,United_States,6,4027.0,1,2020_2021_9,Non-European,2020
+10,Sweden,5,3645.0,5,2020_2021_10,European (excl. Eng),2020
+11,France,5,3380.0,3,2020_2021_11,European (excl. Eng),2020
+12,Denmark,4,5714.0,14,2020_2021_12,European (excl. Eng),2020
+13,Jamaica,4,3998.0,50,2020_2021_13,Non-European,2020
+14,Canada,4,3875.0,8,2020_2021_14,Non-European,2020
+15,Switzerland,4,3827.0,19,2020_2021_15,European (excl. Eng),2020
+16,Korea_Republic,4,3508.0,18,2020_2021_16,Non-European,2020
+17,Northern_Ireland,4,3376.0,49,2020_2021_17,European (excl. Eng),2020
+18,New_Zealand,3,1859.0,22,2020_2021_18,Non-European,2020
+19,Finland,3,1647.0,25,2020_2021_19,European (excl. Eng),2020
+20,Austria,2,1629.0,20,2020_2021_20,European (excl. Eng),2020
+21,Belgium,1,1713.0,17,2020_2021_21,Non-European,2020
+22,Spain,1,1632.0,12,2020_2021_22,European (excl. Eng),2020
+23,Czech_Republic,1,1032.0,27,2020_2021_23,European (excl. Eng),2020
+24,Morocco,1,1005.0,77,2020_2021_24,Non-European,2020
+25,Japan,1,981.0,10,2020_2021_25,Non-European,2020
+26,Iceland,1,802.0,16,2020_2021_26,European (excl. Eng),2020
+27,Portugal,1,523.0,30,2020_2021_27,European (excl. Eng),2020
+28,Dominican_Republic,1,245.0,97,2020_2021_28,Non-European,2020
+29,Ghana,1,171.0,58,2020_2021_29,Non-European,2020
+30,Brazil,1,100.0,8,2020_2021_30,Non-European,2020
+31,Greece,1,33.0,63,2020_2021_31,European (excl. Eng),2020
+32,Poland,1,1.0,29,2020_2021_32,European (excl. Eng),2020
+33,Mexico,1,,28,2020_2021_33,Non-European,2020
+34,South_Africa,1,,53,2020_2021_34,Non-European,2020
+1,England,137,117131.0,8,2021_2022_1,English,2021
+2,Scotland,21,17991.0,23,2021_2022_2,European (excl. Eng),2021
+3,Republic_of_Ireland,16,18457.0,31,2021_2022_3,European (excl. Eng),2021
+4,Wales,16,10992.0,33,2021_2022_4,European (excl. Eng),2021
+5,Australia,10,10431.0,11,2021_2022_5,Non-European,2021
+6,Sweden,10,9176.0,2,2021_2022_6,European (excl. Eng),2021
+7,Denmark,8,4257.0,14,2021_2022_7,European (excl. Eng),2021
+8,Norway,7,6950.0,12,2021_2022_8,Non-European,2021
+9,Jamaica,7,4865.0,51,2021_2022_9,Non-European,2021
+10,Netherlands,6,8216.0,5,2021_2022_10,European (excl. Eng),2021
+11,Canada,5,6043.0,6,2021_2022_11,Non-European,2021
+12,France,5,5809.0,4,2021_2022_12,European (excl. Eng),2021
+13,Germany,5,4662.0,3,2021_2022_13,European (excl. Eng),2021
+14,Korea_Republic,4,2404.0,18,2021_2022_14,Non-European,2021
+15,Switzerland,3,4872.0,17,2021_2022_15,European (excl. Eng),2021
+16,Finland,3,3603.0,28,2021_2022_16,European (excl. Eng),2021
+17,Austria,3,2437.0,21,2021_2022_17,European (excl. Eng),2021
+18,Northern_Ireland,3,2014.0,46,2021_2022_18,European (excl. Eng),2021
+19,New_Zealand,3,1929.0,22,2021_2022_19,Non-European,2021
+20,Spain,2,2461.0,9,2021_2022_20,European (excl. Eng),2021
+21,Japan,2,1950.0,13,2021_2022_21,Non-European,2021
+22,Nigeria,2,1833.0,41,2021_2022_22,Non-European,2021
+23,Belgium,2,1587.0,20,2021_2022_23,Non-European,2021
+24,United_States,2,1442.0,1,2021_2022_24,Non-European,2021
+25,Brazil,2,480.0,7,2021_2022_25,Non-European,2021
+26,Iceland,1,1677.0,16,2021_2022_26,European (excl. Eng),2021
+27,Greece,1,1649.0,60,2021_2022_27,European (excl. Eng),2021
+28,Czech_Republic,1,1545.0,24,2021_2022_28,European (excl. Eng),2021
+29,Italy,1,1435.0,15,2021_2022_29,European (excl. Eng),2021
+30,Ghana,1,996.0,57,2021_2022_30,Non-European,2021
+31,Morocco,1,754.0,78,2021_2022_31,Non-European,2021
+32,China_PR,1,262.0,19,2021_2022_32,Non-European,2021
+33,Russia,1,47.0,25,2021_2022_33,European (excl. Eng),2021
+34,Mexico,1,,27,2021_2022_34,Non-European,2021
+35,Slovenia,1,,48,2021_2022_35,European (excl. Eng),2021
+36,South_Africa,1,,56,2021_2022_36,Non-European,2021
+1,England,144,105128.0,4,2022_2023_1,English,2022
+2,Wales,15,15493.0,32,2022_2023_2,European (excl. Eng),2022
+3,Scotland,14,14891.0,25,2022_2023_3,European (excl. Eng),2022
+4,Republic_of_Ireland,14,11919.0,23,2022_2023_4,European (excl. Eng),2022
+5,Norway,13,11042.0,13,2022_2023_5,Non-European,2022
+6,Australia,13,10203.0,12,2022_2023_6,Non-European,2022
+7,Denmark,11,8859.0,18,2022_2023_7,European (excl. Eng),2022
+8,Sweden,10,12254.0,3,2022_2023_8,European (excl. Eng),2022
+9,Canada,7,4177.0,6,2022_2023_9,Non-European,2022
+10,France,6,6227.0,5,2022_2023_10,European (excl. Eng),2022
+11,Netherlands,6,4924.0,8,2022_2023_11,European (excl. Eng),2022
+12,United_States,6,4190.0,1,2022_2023_12,Non-European,2022
+13,Japan,5,6727.0,11,2022_2023_13,Non-European,2022
+14,Jamaica,5,5490.0,44,2022_2023_14,Non-European,2022
+15,Spain,5,4675.0,7,2022_2023_15,European (excl. Eng),2022
+16,Germany,5,3098.0,2,2022_2023_16,European (excl. Eng),2022
+17,Northern_Ireland,5,2086.0,47,2022_2023_17,European (excl. Eng),2022
+18,New_Zealand,4,2245.0,24,2022_2023_18,Non-European,2022
+19,Finland,3,4243.0,31,2022_2023_19,European (excl. Eng),2022
+20,Switzerland,3,4073.0,21,2022_2023_20,European (excl. Eng),2022
+21,Belgium,3,2480.0,20,2022_2023_21,Non-European,2022
+22,Korea_Republic,3,2042.0,15,2022_2023_22,Non-European,2022
+23,Austria,2,2592.0,19,2022_2023_23,European (excl. Eng),2022
+24,Brazil,2,1588.0,9,2022_2023_24,Non-European,2022
+25,Serbia,2,761.0,36,2022_2023_25,European (excl. Eng),2022
+26,Iceland,1,1762.0,16,2022_2023_26,European (excl. Eng),2022
+27,Nigeria,1,1739.0,45,2022_2023_27,Non-European,2022
+28,Greece,1,1438.0,62,2022_2023_28,European (excl. Eng),2022
+29,Morocco,1,1093.0,76,2022_2023_29,Non-European,2022
+30,Venezuela,1,1079.0,52,2022_2023_30,Non-European,2022
+31,Italy,1,1066.0,17,2022_2023_31,European (excl. Eng),2022
+32,Cameroon,1,635.0,58,2022_2023_32,Non-European,2022
+33,Poland,1,498.0,30,2022_2023_33,European (excl. Eng),2022
+34,Russia,1,121.0,26,2022_2023_34,European (excl. Eng),2022
+35,Czech_Republic,1,86.0,28,2022_2023_35,European (excl. Eng),2022
+36,Ghana,1,61.0,59,2022_2023_36,Non-European,2022
+1,England,128,88986.0,4,2023_2024_1,English,2023
+2,Australia,16,13371.0,12,2023_2024_2,Non-European,2023
+3,Scotland,15,18507.0,25,2023_2024_3,European (excl. Eng),2023
+4,Wales,15,11090.0,32,2023_2024_4,European (excl. Eng),2023
+5,Republic_of_Ireland,14,11687.0,24,2023_2024_5,European (excl. Eng),2023
+6,Sweden,14,11086.0,5,2023_2024_6,European (excl. Eng),2023
+7,Norway,12,12811.0,16,2023_2024_7,Non-European,2023
+8,Denmark,10,6987.0,13,2023_2024_8,European (excl. Eng),2023
+9,Canada,10,6708.0,10,2023_2024_9,Non-European,2023
+10,Japan,9,12067.0,8,2023_2024_10,Non-European,2023
+11,Netherlands,9,7818.0,7,2023_2024_11,European (excl. Eng),2023
+12,Germany,8,6864.0,6,2023_2024_12,European (excl. Eng),2023
+13,United_States,8,3134.0,2,2023_2024_13,Non-European,2023
+14,France,7,8131.0,3,2023_2024_14,European (excl. Eng),2023
+15,Spain,6,6504.0,1,2023_2024_15,European (excl. Eng),2023
+16,Belgium,5,5061.0,18,2023_2024_16,Non-European,2023
+17,Jamaica,5,3969.0,40,2023_2024_17,Non-European,2023
+18,Finland,4,5790.0,27,2023_2024_18,European (excl. Eng),2023
+19,Switzerland,4,4523.0,22,2023_2024_19,European (excl. Eng),2023
+20,Austria,3,3074.0,17,2023_2024_20,European (excl. Eng),2023
+21,New_Zealand,3,2033.0,30,2023_2024_21,Non-European,2023
+22,China_PR,3,744.0,19,2023_2024_22,Non-European,2023
+23,Italy,2,2402.0,14,2023_2024_23,European (excl. Eng),2023
+24,Colombia,2,1342.0,23,2023_2024_24,Non-European,2023
+25,Northern_Ireland,2,1048.0,46,2023_2024_25,European (excl. Eng),2023
+26,Serbia,2,361.0,36,2023_2024_26,European (excl. Eng),2023
+27,Brazil,1,1114.0,11,2023_2024_27,Non-European,2023
+28,Korea_Republic,1,837.0,20,2023_2024_28,Non-European,2023
+29,Portugal,1,823.0,21,2023_2024_29,European (excl. Eng),2023
+30,Greece,1,768.0,62,2023_2024_30,European (excl. Eng),2023
+31,Czech_Republic,1,540.0,28,2023_2024_31,European (excl. Eng),2023
+32,Morocco,1,211.0,60,2023_2024_32,Non-European,2023
+33,Venezuela,1,142.0,53,2023_2024_33,Non-European,2023
+34,Iceland,1,,15,2023_2024_34,European (excl. Eng),2023
+1,England,126,81363.0,4,2024_2025_1,English,2024
+2,Netherlands,17,16846.0,10,2024_2025_2,European (excl. Eng),2024
+3,Scotland,15,12014.0,24,2024_2025_3,European (excl. Eng),2024
+4,Sweden,15,8935.0,5,2024_2025_4,European (excl. Eng),2024
+5,Wales,14,6999.0,30,2024_2025_5,European (excl. Eng),2024
+6,Australia,13,12684.0,15,2024_2025_6,Non-European,2024
+7,Republic_of_Ireland,13,9497.0,25,2024_2025_7,European (excl. Eng),2024
+8,Japan,12,14899.0,8,2024_2025_8,Non-European,2024
+9,Spain,12,10375.0,2,2024_2025_9,European (excl. Eng),2024
+10,France,12,8167.0,11,2024_2025_10,European (excl. Eng),2024
+11,Canada,11,9694.0,6,2024_2025_11,Non-European,2024
+12,United_States,11,9487.0,1,2024_2025_12,Non-European,2024
+13,Norway,10,11251.0,16,2024_2025_13,Non-European,2024
+14,Denmark,9,6146.0,12,2024_2025_14,European (excl. Eng),2024
+15,Finland,7,4662.0,26,2024_2025_15,European (excl. Eng),2024
+16,Germany,6,6157.0,3,2024_2025_16,European (excl. Eng),2024
+17,Belgium,5,5706.0,19,2024_2025_17,Non-European,2024
+18,Jamaica,5,4376.0,40,2024_2025_18,Non-European,2024
+19,Switzerland,4,4280.0,23,2024_2025_19,European (excl. Eng),2024
+20,Austria,4,3331.0,18,2024_2025_20,European (excl. Eng),2024
+21,Colombia,4,2808.0,21,2024_2025_21,Non-European,2024
+22,Brazil,3,1871.0,7,2024_2025_22,Non-European,2024
+23,New_Zealand,2,2030.0,32,2024_2025_23,Non-European,2024
+24,Serbia,2,1023.0,34,2024_2025_24,European (excl. Eng),2024
+25,China_PR,2,768.0,17,2024_2025_25,Non-European,2024
+26,Iceland,2,763.0,14,2024_2025_26,European (excl. Eng),2024
+27,Poland,1,1980.0,28,2024_2025_27,European (excl. Eng),2024
+28,Nigeria,1,1366.0,36,2024_2025_28,Non-European,2024
+29,Greece,1,777.0,58,2024_2025_29,European (excl. Eng),2024
+30,Chile,1,551.0,38,2024_2025_30,Non-European,2024
+31,Hungary,1,261.0,46,2024_2025_31,European (excl. Eng),2024
+32,Italy,1,94.0,13,2024_2025_32,European (excl. Eng),2024
+33,Morocco,1,49.0,61,2024_2025_33,Non-European,2024
+34,Tanzania,1,4.0,145,2024_2025_34,Non-European,2024
