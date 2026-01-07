@@ -30,7 +30,7 @@ Summaries of projects completed as part of my role as a data science apprentice.
 ### Other Projects
 Public data science projects:
 
-- [Women’s Super League Project (Assignment for Data Science Professional Practice module)](docs/apprenticeship/wsl_project.md)
+- [Women’s Super League Project (Assignment for Data Science Professional Practice module)](docs/projects/wsl_project.md)
 
 ## Learning Notes
 Personal learning notes and cheat sheets created as a working references.
